@@ -126,7 +126,7 @@ stdenv.mkDerivation {
 
   meta = {
     description = "WeChat-style pinyin input method for fcitx5, with bundled dictionaries and language model";
-    homepage = "https://github.com/Gloridust/WowType";
+    homepage = "https://github.com/LIghtJUNction/WowType";
     license = with lib.licenses; [
       mit
       asl20
